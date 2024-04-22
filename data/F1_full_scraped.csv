@@ -1,0 +1,440 @@
+RaceID,Date,Grand Prix,Driver,Car,Pos,PTS,Laps,PosQ,Q1,Q2,Q3
+0,2023-03-05,Bahrain,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,57,1.0,1:31.295,1:30.503,1:29.708
+0,2023-03-05,Bahrain,Sergio Perez PER,Red Bull Racing Honda RBPT,2.0,18,57,2.0,1:31.479,1:30.746,1:29.846
+0,2023-03-05,Bahrain,Fernando Alonso ALO,Aston Martin Aramco Mercedes,3.0,15,57,5.0,1:31.158,1:30.645,1:30.336
+0,2023-03-05,Bahrain,Carlos Sainz SAI,Ferrari,4.0,12,57,4.0,1:30.993,1:30.515,1:30.154
+0,2023-03-05,Bahrain,Lewis Hamilton HAM,Mercedes,5.0,10,57,7.0,1:31.543,1:30.513,1:30.384
+0,2023-03-05,Bahrain,Lance Stroll STR,Aston Martin Aramco Mercedes,6.0,8,57,8.0,1:31.184,1:31.127,1:30.836
+0,2023-03-05,Bahrain,George Russell RUS,Mercedes,7.0,6,57,6.0,1:31.057,1:30.507,1:30.340
+0,2023-03-05,Bahrain,Valtteri Bottas BOT,Alfa Romeo Ferrari,8.0,4,57,12.0,1:31.504,1:31.443,
+0,2023-03-05,Bahrain,Pierre Gasly GAS,Alpine Renault,9.0,2,57,20.0,1:32.181,,
+0,2023-03-05,Bahrain,Alexander Albon ALB,Williams Mercedes,10.0,1,57,15.0,1:31.461,,
+0,2023-03-05,Bahrain,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,11.0,0,57,14.0,1:31.400,1:32.510,
+0,2023-03-05,Bahrain,Logan Sargeant SAR,Williams Mercedes,12.0,0,56,16.0,1:31.652,,
+0,2023-03-05,Bahrain,Kevin Magnussen MAG,Haas Ferrari,13.0,0,56,17.0,1:31.892,,
+0,2023-03-05,Bahrain,Nyck De Vries DEV,AlphaTauri Honda RBPT,14.0,0,56,19.0,1:32.121,,
+0,2023-03-05,Bahrain,Nico Hulkenberg HUL,Haas Ferrari,15.0,0,56,10.0,1:31.204,1:30.809,
+0,2023-03-05,Bahrain,Zhou Guanyu ZHO,Alfa Romeo Ferrari,16.0,0,56,13.0,1:31.615,1:31.473,
+0,2023-03-05,Bahrain,Lando Norris NOR,McLaren Mercedes,17.0,0,55,11.0,1:31.652,1:31.381,
+0,2023-03-05,Bahrain,Esteban Ocon OCO,Alpine Renault,,0,41,9.0,1:31.508,1:30.914,1:30.984
+0,2023-03-05,Bahrain,Charles Leclerc LEC,Ferrari,,0,39,3.0,1:31.094,1:30.282,1:30.000
+0,2023-03-05,Bahrain,Oscar Piastri PIA,McLaren Mercedes,,0,13,18.0,1:32.101,,
+1,2023-03-19,Saudi Arabia,Sergio Perez PER,Red Bull Racing Honda RBPT,1.0,25,50,1.0,1:29.244,1:28.635,1:28.265
+1,2023-03-19,Saudi Arabia,Max Verstappen VER,Red Bull Racing Honda RBPT,2.0,19,50,15.0,1:28.761,1:49.953,
+1,2023-03-19,Saudi Arabia,Fernando Alonso ALO,Aston Martin Aramco Mercedes,3.0,15,50,3.0,1:29.298,1:28.757,1:28.730
+1,2023-03-19,Saudi Arabia,George Russell RUS,Mercedes,4.0,12,50,4.0,1:29.592,1:29.132,1:28.857
+1,2023-03-19,Saudi Arabia,Lewis Hamilton HAM,Mercedes,5.0,10,50,8.0,1:29.689,1:29.374,1:29.223
+1,2023-03-19,Saudi Arabia,Carlos Sainz SAI,Ferrari,6.0,8,50,5.0,1:29.411,1:28.957,1:28.931
+1,2023-03-19,Saudi Arabia,Charles Leclerc LEC,Ferrari,7.0,6,50,2.0,1:29.376,1:28.903,1:28.420
+1,2023-03-19,Saudi Arabia,Esteban Ocon OCO,Alpine Renault,8.0,4,50,7.0,1:29.707,1:29.255,1:29.078
+1,2023-03-19,Saudi Arabia,Pierre Gasly GAS,Alpine Renault,9.0,2,50,10.0,1:29.890,1:29.411,1:29.357
+1,2023-03-19,Saudi Arabia,Kevin Magnussen MAG,Haas Ferrari,10.0,1,50,13.0,1:29.744,1:29.634,
+1,2023-03-19,Saudi Arabia,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,11.0,0,50,16.0,1:29.939,,
+1,2023-03-19,Saudi Arabia,Nico Hulkenberg HUL,Haas Ferrari,12.0,0,50,11.0,1:29.547,1:29.451,
+1,2023-03-19,Saudi Arabia,Zhou Guanyu ZHO,Alfa Romeo Ferrari,13.0,0,50,12.0,1:29.654,1:29.461,
+1,2023-03-19,Saudi Arabia,Nyck De Vries DEV,AlphaTauri Honda RBPT,14.0,0,50,18.0,1:30.244,,
+1,2023-03-19,Saudi Arabia,Oscar Piastri PIA,McLaren Mercedes,15.0,0,50,9.0,1:29.706,1:29.378,1:29.243
+1,2023-03-19,Saudi Arabia,Logan Sargeant SAR,Williams Mercedes,16.0,0,50,,2:08.510,,
+1,2023-03-19,Saudi Arabia,Lando Norris NOR,McLaren Mercedes,17.0,0,50,19.0,1:30.447,,
+1,2023-03-19,Saudi Arabia,Valtteri Bottas BOT,Alfa Romeo Ferrari,18.0,0,49,14.0,1:29.929,1:29.668,
+1,2023-03-19,Saudi Arabia,Alexander Albon ALB,Williams Mercedes,,0,27,17.0,1:29.994,,
+1,2023-03-19,Saudi Arabia,Lance Stroll STR,Aston Martin Aramco Mercedes,,0,16,6.0,1:29.335,1:28.962,1:28.945
+2,2023-04-02,Australia,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,58,1.0,1:17.384,1:17.056,1:16.732
+2,2023-04-02,Australia,Lewis Hamilton HAM,Mercedes,2.0,18,58,3.0,1:17.689,1:17.551,1:17.104
+2,2023-04-02,Australia,Fernando Alonso ALO,Aston Martin Aramco Mercedes,3.0,15,58,4.0,1:17.832,1:17.283,1:17.139
+2,2023-04-02,Australia,Lance Stroll STR,Aston Martin Aramco Mercedes,4.0,12,58,6.0,1:17.873,1:17.616,1:17.308
+2,2023-04-02,Australia,Sergio Perez PER,Red Bull Racing Honda RBPT,5.0,11,58,,,,
+2,2023-04-02,Australia,Lando Norris NOR,McLaren Mercedes,6.0,8,58,13.0,1:18.243,1:18.119,
+2,2023-04-02,Australia,Nico Hulkenberg HUL,Haas Ferrari,7.0,6,58,10.0,1:18.029,1:17.412,1:17.735
+2,2023-04-02,Australia,Oscar Piastri PIA,McLaren Mercedes,8.0,4,58,16.0,1:18.517,,
+2,2023-04-02,Australia,Zhou Guanyu ZHO,Alfa Romeo Ferrari,9.0,2,58,17.0,1:18.540,,
+2,2023-04-02,Australia,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,10.0,1,58,12.0,1:18.471,1:18.099,
+2,2023-04-02,Australia,Valtteri Bottas BOT,Alfa Romeo Ferrari,11.0,0,58,19.0,1:18.714,,
+2,2023-04-02,Australia,Carlos Sainz SAI,Ferrari,12.0,0,58,5.0,1:17.928,1:17.349,1:17.270
+2,2023-04-02,Australia,Pierre Gasly GAS,Alpine Renault,13.0,0,56,9.0,1:18.312,1:17.574,1:17.675
+2,2023-04-02,Australia,Esteban Ocon OCO,Alpine Renault,14.0,0,56,11.0,1:17.770,1:17.768,
+2,2023-04-02,Australia,Nyck De Vries DEV,AlphaTauri Honda RBPT,15.0,0,56,15.0,1:18.450,1:18.335,
+2,2023-04-02,Australia,Logan Sargeant SAR,Williams Mercedes,16.0,0,56,18.0,1:18.557,,
+2,2023-04-02,Australia,Kevin Magnussen MAG,Haas Ferrari,17.0,0,52,14.0,1:18.159,1:18.129,
+2,2023-04-02,Australia,George Russell RUS,Mercedes,,0,17,2.0,1:17.654,1:17.513,1:16.968
+2,2023-04-02,Australia,Alexander Albon ALB,Williams Mercedes,,0,6,8.0,1:17.962,1:17.761,1:17.609
+2,2023-04-02,Australia,Charles Leclerc LEC,Ferrari,,0,0,7.0,1:18.218,1:17.390,1:17.369
+3,2023-04-30,Azerbaijan,Sergio Perez PER,Red Bull Racing Honda RBPT,1.0,25,51,3.0,1:41.756,1:41.131,1:40.495
+3,2023-04-30,Azerbaijan,Max Verstappen VER,Red Bull Racing Honda RBPT,2.0,18,51,2.0,1:41.398,1:40.822,1:40.391
+3,2023-04-30,Azerbaijan,Charles Leclerc LEC,Ferrari,3.0,15,51,1.0,1:41.269,1:41.037,1:40.203
+3,2023-04-30,Azerbaijan,Fernando Alonso ALO,Aston Martin Aramco Mercedes,4.0,12,51,6.0,1:41.720,1:41.370,1:41.253
+3,2023-04-30,Azerbaijan,Carlos Sainz SAI,Ferrari,5.0,10,51,4.0,1:42.197,1:41.369,1:41.016
+3,2023-04-30,Azerbaijan,Lewis Hamilton HAM,Mercedes,6.0,8,51,5.0,1:42.113,1:41.650,1:41.177
+3,2023-04-30,Azerbaijan,Lance Stroll STR,Aston Martin Aramco Mercedes,7.0,6,51,9.0,1:42.524,1:41.576,1:41.611
+3,2023-04-30,Azerbaijan,George Russell RUS,Mercedes,8.0,5,51,11.0,1:42.073,1:41.654,
+3,2023-04-30,Azerbaijan,Lando Norris NOR,McLaren Mercedes,9.0,2,51,7.0,1:42.154,1:41.485,1:41.281
+3,2023-04-30,Azerbaijan,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,10.0,1,51,8.0,1:42.234,1:41.569,1:41.581
+3,2023-04-30,Azerbaijan,Oscar Piastri PIA,McLaren Mercedes,11.0,0,51,10.0,1:42.455,1:41.636,1:41.611
+3,2023-04-30,Azerbaijan,Alexander Albon ALB,Williams Mercedes,12.0,0,51,13.0,1:42.171,1:41.818,
+3,2023-04-30,Azerbaijan,Kevin Magnussen MAG,Haas Ferrari,13.0,0,51,18.0,1:43.417,,
+3,2023-04-30,Azerbaijan,Pierre Gasly GAS,Alpine Renault,14.0,0,51,19.0,1:44.853,,
+3,2023-04-30,Azerbaijan,Esteban Ocon OCO,Alpine Renault,15.0,0,51,12.0,1:42.622,1:41.798,
+3,2023-04-30,Azerbaijan,Logan Sargeant SAR,Williams Mercedes,16.0,0,51,15.0,1:42.242,1:42.395,
+3,2023-04-30,Azerbaijan,Nico Hulkenberg HUL,Haas Ferrari,17.0,0,50,17.0,1:42.755,,
+3,2023-04-30,Azerbaijan,Valtteri Bottas BOT,Alfa Romeo Ferrari,18.0,0,50,14.0,1:42.582,1:42.259,
+3,2023-04-30,Azerbaijan,Zhou Guanyu ZHO,Alfa Romeo Ferrari,,0,36,16.0,1:42.642,,
+3,2023-04-30,Azerbaijan,Nyck De Vries DEV,AlphaTauri Honda RBPT,,0,9,,1:55.282,,
+4,2023-05-07,Miami,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,57,9.0,1:27.363,1:26.814,
+4,2023-05-07,Miami,Sergio Perez PER,Red Bull Racing Honda RBPT,2.0,18,57,1.0,1:27.713,1:27.328,1:26.841
+4,2023-05-07,Miami,Fernando Alonso ALO,Aston Martin Aramco Mercedes,3.0,15,57,2.0,1:28.179,1:27.097,1:27.202
+4,2023-05-07,Miami,George Russell RUS,Mercedes,4.0,12,57,6.0,1:28.086,1:27.743,1:27.804
+4,2023-05-07,Miami,Carlos Sainz SAI,Ferrari,5.0,10,57,3.0,1:27.686,1:27.148,1:27.349
+4,2023-05-07,Miami,Lewis Hamilton HAM,Mercedes,6.0,8,57,13.0,1:27.846,1:27.975,
+4,2023-05-07,Miami,Charles Leclerc LEC,Ferrari,7.0,6,57,7.0,1:27.713,1:26.964,1:27.861
+4,2023-05-07,Miami,Pierre Gasly GAS,Alpine Renault,8.0,4,57,5.0,1:28.061,1:27.612,1:27.786
+4,2023-05-07,Miami,Esteban Ocon OCO,Alpine Renault,9.0,2,57,8.0,1:27.872,1:27.444,1:27.935
+4,2023-05-07,Miami,Kevin Magnussen MAG,Haas Ferrari,10.0,1,57,4.0,1:27.809,1:27.673,1:27.767
+4,2023-05-07,Miami,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,11.0,0,57,17.0,1:28.429,,
+4,2023-05-07,Miami,Lance Stroll STR,Aston Martin Aramco Mercedes,12.0,0,57,18.0,1:28.476,,
+4,2023-05-07,Miami,Valtteri Bottas BOT,Alfa Romeo Ferrari,13.0,0,57,10.0,1:27.864,1:27.564,DNS
+4,2023-05-07,Miami,Alexander Albon ALB,Williams Mercedes,14.0,0,57,11.0,1:28.234,1:27.795,
+4,2023-05-07,Miami,Nico Hulkenberg HUL,Haas Ferrari,15.0,0,57,12.0,1:27.945,1:27.903,
+4,2023-05-07,Miami,Zhou Guanyu ZHO,Alfa Romeo Ferrari,16.0,0,57,14.0,1:28.180,1:28.091,
+4,2023-05-07,Miami,Lando Norris NOR,McLaren Mercedes,17.0,0,57,16.0,1:28.394,,
+4,2023-05-07,Miami,Nyck De Vries DEV,AlphaTauri Honda RBPT,18.0,0,57,15.0,1:28.325,1:28.395,
+4,2023-05-07,Miami,Oscar Piastri PIA,McLaren Mercedes,19.0,0,56,19.0,1:28.484,,
+4,2023-05-07,Miami,Logan Sargeant SAR,Williams Mercedes,20.0,0,56,20.0,1:28.577,,
+5,2023-05-28,Monaco,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,78,1.0,1:12.386,1:11.908,1:11.365
+5,2023-05-28,Monaco,Fernando Alonso ALO,Aston Martin Aramco Mercedes,2.0,18,78,2.0,1:12.886,1:12.107,1:11.449
+5,2023-05-28,Monaco,Esteban Ocon OCO,Alpine Renault,3.0,15,78,4.0,1:12.967,1:12.248,1:11.553
+5,2023-05-28,Monaco,Lewis Hamilton HAM,Mercedes,4.0,13,78,6.0,1:12.872,1:12.156,1:11.725
+5,2023-05-28,Monaco,George Russell RUS,Mercedes,5.0,10,78,8.0,1:12.769,1:12.151,1:11.964
+5,2023-05-28,Monaco,Charles Leclerc LEC,Ferrari,6.0,8,78,3.0,1:12.912,1:12.103,1:11.471
+5,2023-05-28,Monaco,Pierre Gasly GAS,Alpine Renault,7.0,6,78,7.0,1:13.033,1:12.169,1:11.933
+5,2023-05-28,Monaco,Carlos Sainz SAI,Ferrari,8.0,4,78,5.0,1:12.717,1:12.210,1:11.630
+5,2023-05-28,Monaco,Lando Norris NOR,McLaren Mercedes,9.0,2,77,10.0,1:12.877,1:12.377,1:12.254
+5,2023-05-28,Monaco,Oscar Piastri PIA,McLaren Mercedes,10.0,1,77,11.0,1:13.006,1:12.395,
+5,2023-05-28,Monaco,Valtteri Bottas BOT,Alfa Romeo Ferrari,11.0,0,77,15.0,1:13.038,1:12.625,
+5,2023-05-28,Monaco,Nyck De Vries DEV,AlphaTauri Honda RBPT,12.0,0,77,12.0,1:13.054,1:12.428,
+5,2023-05-28,Monaco,Zhou Guanyu ZHO,Alfa Romeo Ferrari,13.0,0,77,19.0,1:13.523,,
+5,2023-05-28,Monaco,Alexander Albon ALB,Williams Mercedes,14.0,0,77,13.0,1:12.706,1:12.527,
+5,2023-05-28,Monaco,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,15.0,0,76,9.0,1:12.642,1:12.249,1:12.082
+5,2023-05-28,Monaco,Sergio Perez PER,Red Bull Racing Honda RBPT,16.0,0,76,20.0,1:13.850,,
+5,2023-05-28,Monaco,Nico Hulkenberg HUL,Haas Ferrari,17.0,0,76,18.0,1:13.279,,
+5,2023-05-28,Monaco,Logan Sargeant SAR,Williams Mercedes,18.0,0,76,16.0,1:13.113,,
+5,2023-05-28,Monaco,Kevin Magnussen MAG,Haas Ferrari,19.0,0,70,17.0,1:13.270,,
+5,2023-05-28,Monaco,Lance Stroll STR,Aston Martin Aramco Mercedes,,0,53,14.0,1:12.722,1:12.623,
+6,2023-06-04,Spain,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,66,1.0,1:13.615,1:12.760,1:12.272
+6,2023-06-04,Spain,Lewis Hamilton HAM,Mercedes,2.0,18,66,5.0,1:12.937,1:12.999,1:12.818
+6,2023-06-04,Spain,George Russell RUS,Mercedes,3.0,15,66,12.0,1:13.326,1:13.447,
+6,2023-06-04,Spain,Sergio Perez PER,Red Bull Racing Honda RBPT,4.0,12,66,11.0,1:13.874,1:13.334,
+6,2023-06-04,Spain,Carlos Sainz SAI,Ferrari,5.0,10,66,2.0,1:13.411,1:12.790,1:12.734
+6,2023-06-04,Spain,Lance Stroll STR,Aston Martin Aramco Mercedes,6.0,8,66,6.0,1:13.766,1:13.082,1:12.994
+6,2023-06-04,Spain,Fernando Alonso ALO,Aston Martin Aramco Mercedes,7.0,6,66,9.0,1:13.747,1:13.098,1:13.507
+6,2023-06-04,Spain,Esteban Ocon OCO,Alpine Renault,8.0,4,66,7.0,1:13.433,1:13.001,1:13.083
+6,2023-06-04,Spain,Zhou Guanyu ZHO,Alfa Romeo Ferrari,9.0,2,66,13.0,1:13.677,1:13.521,
+6,2023-06-04,Spain,Pierre Gasly GAS,Alpine Renault,10.0,1,66,4.0,1:13.471,1:13.186,1:12.816
+6,2023-06-04,Spain,Charles Leclerc LEC,Ferrari,11.0,0,66,19.0,1:14.079,,
+6,2023-06-04,Spain,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,12.0,0,66,15.0,1:13.862,1:14.477,
+6,2023-06-04,Spain,Oscar Piastri PIA,McLaren Mercedes,13.0,0,65,10.0,1:13.691,1:13.059,1:13.682
+6,2023-06-04,Spain,Nyck De Vries DEV,AlphaTauri Honda RBPT,14.0,0,65,14.0,1:13.581,1:14.083,
+6,2023-06-04,Spain,Nico Hulkenberg HUL,Haas Ferrari,15.0,0,65,8.0,1:13.420,1:13.283,1:13.229
+6,2023-06-04,Spain,Alexander Albon ALB,Williams Mercedes,16.0,0,65,18.0,1:14.063,,
+6,2023-06-04,Spain,Lando Norris NOR,McLaren Mercedes,17.0,0,65,3.0,1:13.295,1:12.776,1:12.792
+6,2023-06-04,Spain,Kevin Magnussen MAG,Haas Ferrari,18.0,0,65,17.0,1:14.042,,
+6,2023-06-04,Spain,Valtteri Bottas BOT,Alfa Romeo Ferrari,19.0,0,65,16.0,1:13.977,,
+6,2023-06-04,Spain,Logan Sargeant SAR,Williams Mercedes,20.0,0,65,20.0,1:14.699,,
+7,2023-06-18,Canada,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,70,1.0,1:20.851,1:19.092,1:25.858
+7,2023-06-18,Canada,Fernando Alonso ALO,Aston Martin Aramco Mercedes,2.0,18,70,3.0,1:21.481,1:19.776,1:27.286
+7,2023-06-18,Canada,Lewis Hamilton HAM,Mercedes,3.0,15,70,4.0,1:21.554,1:20.426,1:27.627
+7,2023-06-18,Canada,Charles Leclerc LEC,Ferrari,4.0,12,70,11.0,1:21.843,1:20.615,
+7,2023-06-18,Canada,Carlos Sainz SAI,Ferrari,5.0,10,70,8.0,1:22.248,1:19.856,1:29.294
+7,2023-06-18,Canada,Sergio Perez PER,Red Bull Racing Honda RBPT,6.0,9,70,12.0,1:22.151,1:20.959,
+7,2023-06-18,Canada,Alexander Albon ALB,Williams Mercedes,7.0,6,70,10.0,1:21.938,1:18.725,
+7,2023-06-18,Canada,Esteban Ocon OCO,Alpine Renault,8.0,4,70,6.0,1:22.114,1:20.406,1:27.945
+7,2023-06-18,Canada,Lance Stroll STR,Aston Martin Aramco Mercedes,9.0,2,70,13.0,1:22.677,1:21.484,
+7,2023-06-18,Canada,Valtteri Bottas BOT,Alfa Romeo Ferrari,10.0,1,70,15.0,1:22.332,1:21.821,
+7,2023-06-18,Canada,Oscar Piastri PIA,McLaren Mercedes,11.0,0,70,9.0,1:22.190,1:19.659,1:31.349
+7,2023-06-18,Canada,Pierre Gasly GAS,Alpine Renault,12.0,0,70,17.0,1:22.886,,
+7,2023-06-18,Canada,Lando Norris NOR,McLaren Mercedes,13.0,0,70,7.0,1:21.998,1:19.347,1:28.046
+7,2023-06-18,Canada,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,14.0,0,70,16.0,1:22.746,,
+7,2023-06-18,Canada,Nico Hulkenberg HUL,Haas Ferrari,15.0,0,69,2.0,1:22.730,1:20.305,1:27.102
+7,2023-06-18,Canada,Zhou Guanyu ZHO,Alfa Romeo Ferrari,16.0,0,69,20.0,1:23.342,,
+7,2023-06-18,Canada,Kevin Magnussen MAG,Haas Ferrari,17.0,0,69,14.0,1:22.351,1:21.678,
+7,2023-06-18,Canada,Nyck De Vries DEV,AlphaTauri Honda RBPT,18.0,0,69,18.0,1:23.137,,
+7,2023-06-18,Canada,George Russell RUS,Mercedes,,0,53,5.0,1:21.798,1:20.098,1:27.893
+7,2023-06-18,Canada,Logan Sargeant SAR,Williams Mercedes,,0,6,19.0,1:23.337,,
+8,2023-07-02,Austria,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,71,1.0,1:05.116,1:04.951,1:04.391
+8,2023-07-02,Austria,Charles Leclerc LEC,Ferrari,2.0,18,71,2.0,1:05.577,1:05.087,1:04.439
+8,2023-07-02,Austria,Sergio Perez PER,Red Bull Racing Honda RBPT,3.0,15,71,15.0,1:05.177,2:06.688,
+8,2023-07-02,Austria,Lando Norris NOR,McLaren Mercedes,4.0,12,71,4.0,1:05.617,1:05.038,1:04.658
+8,2023-07-02,Austria,Fernando Alonso ALO,Aston Martin Aramco Mercedes,5.0,10,71,7.0,1:05.655,1:05.181,1:04.911
+8,2023-07-02,Austria,Carlos Sainz SAI,Ferrari,6.0,8,71,3.0,1:05.339,1:04.975,1:04.581
+8,2023-07-02,Austria,George Russell RUS,Mercedes,7.0,6,71,11.0,1:05.686,1:05.428,
+8,2023-07-02,Austria,Lewis Hamilton HAM,Mercedes,8.0,4,71,5.0,1:05.673,1:05.188,1:04.819
+8,2023-07-02,Austria,Lance Stroll STR,Aston Martin Aramco Mercedes,9.0,2,71,6.0,1:05.710,1:05.121,1:04.893
+8,2023-07-02,Austria,Pierre Gasly GAS,Alpine Renault,10.0,1,71,9.0,1:05.515,1:05.308,1:05.170
+8,2023-07-02,Austria,Alexander Albon ALB,Williams Mercedes,11.0,0,71,10.0,1:05.673,1:05.387,1:05.823
+8,2023-07-02,Austria,Zhou Guanyu ZHO,Alfa Romeo Ferrari,12.0,0,70,17.0,1:05.818,,
+8,2023-07-02,Austria,Logan Sargeant SAR,Williams Mercedes,13.0,0,70,18.0,1:05.948,,
+8,2023-07-02,Austria,Esteban Ocon OCO,Alpine Renault,14.0,0,70,12.0,1:05.729,1:05.453,
+8,2023-07-02,Austria,Valtteri Bottas BOT,Alfa Romeo Ferrari,15.0,0,70,14.0,1:05.763,1:05.680,
+8,2023-07-02,Austria,Oscar Piastri PIA,McLaren Mercedes,16.0,0,70,13.0,1:05.683,1:05.605,
+8,2023-07-02,Austria,Nyck De Vries DEV,AlphaTauri Honda RBPT,17.0,0,70,20.0,1:05.974,,
+8,2023-07-02,Austria,Kevin Magnussen MAG,Haas Ferrari,18.0,0,70,19.0,1:05.971,,
+8,2023-07-02,Austria,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,19.0,0,70,16.0,1:05.784,,
+8,2023-07-02,Austria,Nico Hulkenberg HUL,Haas Ferrari,,0,12,8.0,1:05.740,1:05.362,1:05.090
+9,2023-07-09,Great Britain,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,52,1.0,1:29.428,1:27.702,1:26.720
+9,2023-07-09,Great Britain,Lando Norris NOR,McLaren Mercedes,2.0,18,52,2.0,1:28.917,1:28.042,1:26.961
+9,2023-07-09,Great Britain,Lewis Hamilton HAM,Mercedes,3.0,15,52,7.0,1:29.415,1:28.545,1:27.211
+9,2023-07-09,Great Britain,Oscar Piastri PIA,McLaren Mercedes,4.0,12,52,3.0,1:29.874,1:27.845,1:27.092
+9,2023-07-09,Great Britain,George Russell RUS,Mercedes,5.0,10,52,6.0,1:29.412,1:28.782,1:27.155
+9,2023-07-09,Great Britain,Sergio Perez PER,Red Bull Racing Honda RBPT,6.0,8,52,15.0,1:29.968,,
+9,2023-07-09,Great Britain,Fernando Alonso ALO,Aston Martin Aramco Mercedes,7.0,6,52,9.0,1:29.949,1:28.368,1:27.659
+9,2023-07-09,Great Britain,Alexander Albon ALB,Williams Mercedes,8.0,4,52,8.0,1:29.466,1:28.067,1:27.530
+9,2023-07-09,Great Britain,Charles Leclerc LEC,Ferrari,9.0,2,52,4.0,1:29.143,1:28.361,1:27.136
+9,2023-07-09,Great Britain,Carlos Sainz SAI,Ferrari,10.0,1,52,5.0,1:29.865,1:28.265,1:27.148
+9,2023-07-09,Great Britain,Logan Sargeant SAR,Williams Mercedes,11.0,0,52,14.0,1:29.873,1:29.031,
+9,2023-07-09,Great Britain,Valtteri Bottas BOT,Alfa Romeo Ferrari,12.0,0,52,,1:29.798,,
+9,2023-07-09,Great Britain,Nico Hulkenberg HUL,Haas Ferrari,13.0,0,52,11.0,1:29.603,1:28.896,
+9,2023-07-09,Great Britain,Lance Stroll STR,Aston Martin Aramco Mercedes,14.0,0,52,12.0,1:29.448,1:28.935,
+9,2023-07-09,Great Britain,Zhou Guanyu ZHO,Alfa Romeo Ferrari,15.0,0,52,17.0,1:30.123,,
+9,2023-07-09,Great Britain,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,16.0,0,52,16.0,1:30.025,,
+9,2023-07-09,Great Britain,Nyck De Vries DEV,AlphaTauri Honda RBPT,17.0,0,52,18.0,1:30.513,,
+9,2023-07-09,Great Britain,Pierre Gasly GAS,Alpine Renault,18.0,0,46,10.0,1:29.533,1:28.751,1:27.689
+9,2023-07-09,Great Britain,Kevin Magnussen MAG,Haas Ferrari,,0,31,19.0,1:32.378,,
+9,2023-07-09,Great Britain,Esteban Ocon OCO,Alpine Renault,,0,9,13.0,1:29.700,1:28.956,
+10,2023-07-23,Hungary,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,70,,,,
+10,2023-07-23,Hungary,Lando Norris NOR,McLaren Mercedes,2.0,18,70,,,,
+10,2023-07-23,Hungary,Sergio Perez PER,Red Bull Racing Honda RBPT,3.0,15,70,,,,
+10,2023-07-23,Hungary,Lewis Hamilton HAM,Mercedes,4.0,12,70,,,,
+10,2023-07-23,Hungary,Oscar Piastri PIA,McLaren Mercedes,5.0,10,70,,,,
+10,2023-07-23,Hungary,George Russell RUS,Mercedes,6.0,8,70,,,,
+10,2023-07-23,Hungary,Charles Leclerc LEC,Ferrari,7.0,6,70,,,,
+10,2023-07-23,Hungary,Carlos Sainz SAI,Ferrari,8.0,4,70,,,,
+10,2023-07-23,Hungary,Fernando Alonso ALO,Aston Martin Aramco Mercedes,9.0,2,70,,,,
+10,2023-07-23,Hungary,Lance Stroll STR,Aston Martin Aramco Mercedes,10.0,1,69,,,,
+10,2023-07-23,Hungary,Alexander Albon ALB,Williams Mercedes,11.0,0,69,,,,
+10,2023-07-23,Hungary,Valtteri Bottas BOT,Alfa Romeo Ferrari,12.0,0,69,,,,
+10,2023-07-23,Hungary,Daniel Ricciardo RIC,AlphaTauri Honda RBPT,13.0,0,69,,,,
+10,2023-07-23,Hungary,Nico Hulkenberg HUL,Haas Ferrari,14.0,0,69,,,,
+10,2023-07-23,Hungary,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,15.0,0,69,,,,
+10,2023-07-23,Hungary,Zhou Guanyu ZHO,Alfa Romeo Ferrari,16.0,0,69,,,,
+10,2023-07-23,Hungary,Kevin Magnussen MAG,Haas Ferrari,17.0,0,69,,,,
+10,2023-07-23,Hungary,Logan Sargeant SAR,Williams Mercedes,18.0,0,67,,,,
+10,2023-07-23,Hungary,Esteban Ocon OCO,Alpine Renault,,0,2,,,,
+10,2023-07-23,Hungary,Pierre Gasly GAS,Alpine Renault,,0,1,,,,
+11,2023-07-30,Belgium,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,44,1.0,1:58.515,1:52.784,1:46.168
+11,2023-07-30,Belgium,Sergio Perez PER,Red Bull Racing Honda RBPT,2.0,18,44,3.0,1:58.899,1:52.353,1:47.045
+11,2023-07-30,Belgium,Charles Leclerc LEC,Ferrari,3.0,15,44,2.0,1:58.300,1:52.017,1:46.988
+11,2023-07-30,Belgium,Lewis Hamilton HAM,Mercedes,4.0,13,44,4.0,1:58.563,1:52.345,1:47.087
+11,2023-07-30,Belgium,Fernando Alonso ALO,Aston Martin Aramco Mercedes,5.0,10,44,9.0,1:58.834,1:52.751,1:47.843
+11,2023-07-30,Belgium,George Russell RUS,Mercedes,6.0,8,44,8.0,1:59.035,1:52.605,1:47.805
+11,2023-07-30,Belgium,Lando Norris NOR,McLaren Mercedes,7.0,6,44,7.0,1:59.981,1:52.252,1:47.669
+11,2023-07-30,Belgium,Esteban Ocon OCO,Alpine Renault,8.0,4,44,15.0,1:59.634,1:56.372,
+11,2023-07-30,Belgium,Lance Stroll STR,Aston Martin Aramco Mercedes,9.0,2,44,10.0,1:59.663,1:52.193,1:48.841
+11,2023-07-30,Belgium,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,10.0,1,44,11.0,1:59.044,1:53.148,
+11,2023-07-30,Belgium,Pierre Gasly GAS,Alpine Renault,11.0,0,44,12.0,1:59.511,1:53.671,
+11,2023-07-30,Belgium,Valtteri Bottas BOT,Alfa Romeo Ferrari,12.0,0,44,14.0,1:59.484,1:54.694,
+11,2023-07-30,Belgium,Zhou Guanyu ZHO,Alfa Romeo Ferrari,13.0,0,44,17.0,2:00.832,,
+11,2023-07-30,Belgium,Alexander Albon ALB,Williams Mercedes,14.0,0,44,16.0,2:00.314,,
+11,2023-07-30,Belgium,Kevin Magnussen MAG,Haas Ferrari,15.0,0,44,13.0,2:00.020,1:54.160,
+11,2023-07-30,Belgium,Daniel Ricciardo RIC,AlphaTauri Honda RBPT,16.0,0,44,19.0,2:02.159,,
+11,2023-07-30,Belgium,Logan Sargeant SAR,Williams Mercedes,17.0,0,44,18.0,2:01.535,,
+11,2023-07-30,Belgium,Nico Hulkenberg HUL,Haas Ferrari,18.0,0,44,20.0,2:03.166,,
+11,2023-07-30,Belgium,Carlos Sainz SAI,Ferrari,,0,23,5.0,1:58.688,1:51.711,1:47.152
+11,2023-07-30,Belgium,Oscar Piastri PIA,McLaren Mercedes,,0,0,6.0,1:58.872,1:51.534,1:47.365
+12,2023-08-27,Netherlands,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,72,1.0,1:20.965,1:18.856,1:10.567
+12,2023-08-27,Netherlands,Fernando Alonso ALO,Aston Martin Aramco Mercedes,2.0,19,72,5.0,1:21.840,1:19.429,1:11.506
+12,2023-08-27,Netherlands,Pierre Gasly GAS,Alpine Renault,3.0,15,72,12.0,1:21.735,1:20.128,
+12,2023-08-27,Netherlands,Sergio Perez PER,Red Bull Racing Honda RBPT,4.0,12,72,7.0,1:21.972,1:19.856,1:11.880
+12,2023-08-27,Netherlands,Carlos Sainz SAI,Ferrari,5.0,10,72,6.0,1:21.321,1:19.929,1:11.754
+12,2023-08-27,Netherlands,Lewis Hamilton HAM,Mercedes,6.0,8,72,13.0,1:21.919,1:20.151,
+12,2023-08-27,Netherlands,Lando Norris NOR,McLaren Mercedes,7.0,6,72,2.0,1:21.276,1:19.769,1:11.104
+12,2023-08-27,Netherlands,Alexander Albon ALB,Williams Mercedes,8.0,4,72,4.0,1:20.939,1:19.399,1:11.419
+12,2023-08-27,Netherlands,Oscar Piastri PIA,McLaren Mercedes,9.0,2,72,8.0,1:21.231,1:19.392,1:11.938
+12,2023-08-27,Netherlands,Esteban Ocon OCO,Alpine Renault,10.0,1,72,17.0,1:22.110,,
+12,2023-08-27,Netherlands,Lance Stroll STR,Aston Martin Aramco Mercedes,11.0,0,72,11.0,1:21.570,1:20.121,
+12,2023-08-27,Netherlands,Nico Hulkenberg HUL,Haas Ferrari,12.0,0,72,15.0,1:21.891,1:20.250,
+12,2023-08-27,Netherlands,Liam Lawson LAW,AlphaTauri Honda RBPT,13.0,0,72,20.0,1:23.420,,
+12,2023-08-27,Netherlands,Valtteri Bottas BOT,Alfa Romeo Ferrari,14.0,0,72,19.0,1:22.260,,
+12,2023-08-27,Netherlands,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,15.0,0,72,14.0,1:21.781,1:20.230,
+12,2023-08-27,Netherlands,Kevin Magnussen MAG,Haas Ferrari,16.0,0,72,18.0,1:22.192,,
+12,2023-08-27,Netherlands,George Russell RUS,Mercedes,17.0,0,72,3.0,1:21.345,1:19.620,1:11.294
+12,2023-08-27,Netherlands,Zhou Guanyu ZHO,Alfa Romeo Ferrari,,0,62,16.0,1:22.067,,
+12,2023-08-27,Netherlands,Charles Leclerc LEC,Ferrari,,0,41,9.0,1:22.019,1:19.600,1:12.665
+12,2023-08-27,Netherlands,Logan Sargeant SAR,Williams Mercedes,,0,14,10.0,1:22.036,1:20.067,1:16.748
+13,2023-09-03,Italy,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,51,2.0,1:21.573,1:20.937,1:20.307
+13,2023-09-03,Italy,Sergio Perez PER,Red Bull Racing Honda RBPT,2.0,18,51,5.0,1:21.911,1:21.240,1:20.688
+13,2023-09-03,Italy,Carlos Sainz SAI,Ferrari,3.0,15,51,1.0,1:21.965,1:20.991,1:20.294
+13,2023-09-03,Italy,Charles Leclerc LEC,Ferrari,4.0,12,51,3.0,1:21.788,1:20.977,1:20.361
+13,2023-09-03,Italy,George Russell RUS,Mercedes,5.0,10,51,4.0,1:22.148,1:21.382,1:20.671
+13,2023-09-03,Italy,Lewis Hamilton HAM,Mercedes,6.0,8,51,8.0,1:21.977,1:21.369,1:20.820
+13,2023-09-03,Italy,Alexander Albon ALB,Williams Mercedes,7.0,6,51,6.0,1:21.661,1:21.272,1:20.760
+13,2023-09-03,Italy,Lando Norris NOR,McLaren Mercedes,8.0,4,51,9.0,1:21.995,1:21.581,1:20.979
+13,2023-09-03,Italy,Fernando Alonso ALO,Aston Martin Aramco Mercedes,9.0,2,51,10.0,1:22.043,1:21.543,1:21.417
+13,2023-09-03,Italy,Valtteri Bottas BOT,Alfa Romeo Ferrari,10.0,1,51,14.0,1:22.249,1:21.940,
+13,2023-09-03,Italy,Liam Lawson LAW,AlphaTauri Honda RBPT,11.0,0,51,12.0,1:22.112,1:21.758,
+13,2023-09-03,Italy,Oscar Piastri PIA,McLaren Mercedes,12.0,0,51,7.0,1:22.106,1:21.527,1:20.785
+13,2023-09-03,Italy,Logan Sargeant SAR,Williams Mercedes,13.0,0,51,15.0,1:21.930,1:21.944,
+13,2023-09-03,Italy,Zhou Guanyu ZHO,Alfa Romeo Ferrari,14.0,0,51,16.0,1:22.390,,
+13,2023-09-03,Italy,Pierre Gasly GAS,Alpine Renault,15.0,0,51,17.0,1:22.545,,
+13,2023-09-03,Italy,Lance Stroll STR,Aston Martin Aramco Mercedes,16.0,0,51,20.0,1:22.860,,
+13,2023-09-03,Italy,Nico Hulkenberg HUL,Haas Ferrari,17.0,0,50,13.0,1:22.343,1:21.776,
+13,2023-09-03,Italy,Kevin Magnussen MAG,Haas Ferrari,18.0,0,50,19.0,1:22.592,,
+13,2023-09-03,Italy,Esteban Ocon OCO,Alpine Renault,,0,39,18.0,1:22.548,,
+13,2023-09-03,Italy,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,,0,0,11.0,1:21.852,1:21.594,
+14,2023-09-17,Singapore,Carlos Sainz SAI,Ferrari,1.0,25,62,1.0,1:32.339,1:31.439,1:30.984
+14,2023-09-17,Singapore,Lando Norris NOR,McLaren Mercedes,2.0,18,62,4.0,1:32.483,1:31.951,1:31.270
+14,2023-09-17,Singapore,Lewis Hamilton HAM,Mercedes,3.0,16,62,5.0,1:32.651,1:32.019,1:31.485
+14,2023-09-17,Singapore,Charles Leclerc LEC,Ferrari,4.0,12,62,3.0,1:32.406,1:32.012,1:31.063
+14,2023-09-17,Singapore,Max Verstappen VER,Red Bull Racing Honda RBPT,5.0,10,62,11.0,1:32.398,1:32.173,
+14,2023-09-17,Singapore,Pierre Gasly GAS,Alpine Renault,6.0,8,62,12.0,1:32.452,1:32.274,
+14,2023-09-17,Singapore,Oscar Piastri PIA,McLaren Mercedes,7.0,6,62,17.0,1:32.902,,
+14,2023-09-17,Singapore,Sergio Perez PER,Red Bull Racing Honda RBPT,8.0,4,62,13.0,1:32.099,1:32.310,
+14,2023-09-17,Singapore,Liam Lawson LAW,AlphaTauri Honda RBPT,9.0,2,62,10.0,1:32.215,1:32.166,1:32.268
+14,2023-09-17,Singapore,Kevin Magnussen MAG,Haas Ferrari,10.0,1,62,6.0,1:32.242,1:31.892,1:31.575
+14,2023-09-17,Singapore,Alexander Albon ALB,Williams Mercedes,11.0,0,62,14.0,1:32.668,1:33.719,
+14,2023-09-17,Singapore,Zhou Guanyu ZHO,Alfa Romeo Ferrari,12.0,0,62,19.0,1:33.258,,
+14,2023-09-17,Singapore,Nico Hulkenberg HUL,Haas Ferrari,13.0,0,62,9.0,1:32.100,1:31.994,1:31.808
+14,2023-09-17,Singapore,Logan Sargeant SAR,Williams Mercedes,14.0,0,62,18.0,1:33.252,,
+14,2023-09-17,Singapore,Fernando Alonso ALO,Aston Martin Aramco Mercedes,15.0,0,62,7.0,1:32.584,1:31.835,1:31.615
+14,2023-09-17,Singapore,George Russell RUS,Mercedes,16.0,0,61,2.0,1:32.331,1:31.743,1:31.056
+14,2023-09-17,Singapore,Valtteri Bottas BOT,Alfa Romeo Ferrari,,0,51,16.0,1:32.809,,
+14,2023-09-17,Singapore,Esteban Ocon OCO,Alpine Renault,,0,42,8.0,1:32.369,1:32.089,1:31.673
+14,2023-09-17,Singapore,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,,0,0,15.0,1:31.991,,
+15,2023-09-24,Japan,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,53,1.0,1:29.878,1:29.964,1:28.877
+15,2023-09-24,Japan,Lando Norris NOR,McLaren Mercedes,2.0,18,53,3.0,1:30.063,1:30.296,1:29.493
+15,2023-09-24,Japan,Oscar Piastri PIA,McLaren Mercedes,3.0,15,53,2.0,1:30.439,1:30.122,1:29.458
+15,2023-09-24,Japan,Charles Leclerc LEC,Ferrari,4.0,12,53,4.0,1:30.393,1:29.940,1:29.542
+15,2023-09-24,Japan,Lewis Hamilton HAM,Mercedes,5.0,10,53,7.0,1:30.811,1:30.040,1:29.908
+15,2023-09-24,Japan,Carlos Sainz SAI,Ferrari,6.0,8,53,6.0,1:30.651,1:30.067,1:29.850
+15,2023-09-24,Japan,George Russell RUS,Mercedes,7.0,6,53,8.0,1:30.811,1:30.268,1:30.219
+15,2023-09-24,Japan,Fernando Alonso ALO,Aston Martin Aramco Mercedes,8.0,4,53,10.0,1:30.971,1:30.465,1:30.560
+15,2023-09-24,Japan,Esteban Ocon OCO,Alpine Renault,9.0,2,53,14.0,1:30.960,1:30.586,
+15,2023-09-24,Japan,Pierre Gasly GAS,Alpine Renault,10.0,1,53,12.0,1:30.843,1:30.509,
+15,2023-09-24,Japan,Liam Lawson LAW,AlphaTauri Honda RBPT,11.0,0,52,11.0,1:30.425,1:30.508,
+15,2023-09-24,Japan,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,12.0,0,52,9.0,1:30.733,1:30.204,1:30.303
+15,2023-09-24,Japan,Zhou Guanyu ZHO,Alfa Romeo Ferrari,13.0,0,52,19.0,1:31.398,,
+15,2023-09-24,Japan,Nico Hulkenberg HUL,Haas Ferrari,14.0,0,52,18.0,1:31.299,,
+15,2023-09-24,Japan,Kevin Magnussen MAG,Haas Ferrari,15.0,0,52,15.0,1:30.976,1:30.665,
+15,2023-09-24,Japan,Alexander Albon ALB,Williams Mercedes,,0,26,13.0,1:30.941,1:30.537,
+15,2023-09-24,Japan,Logan Sargeant SAR,Williams Mercedes,,0,22,,,,
+15,2023-09-24,Japan,Lance Stroll STR,Aston Martin Aramco Mercedes,,0,20,17.0,1:31.181,,
+15,2023-09-24,Japan,Sergio Perez PER,Red Bull Racing Honda RBPT,,0,15,5.0,1:30.652,1:29.965,1:29.650
+15,2023-09-24,Japan,Valtteri Bottas BOT,Alfa Romeo Ferrari,,0,7,16.0,1:31.049,,
+16,2023-10-08,Qatar,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,57,,,,
+16,2023-10-08,Qatar,Oscar Piastri PIA,McLaren Mercedes,2.0,18,57,,,,
+16,2023-10-08,Qatar,Lando Norris NOR,McLaren Mercedes,3.0,15,57,,,,
+16,2023-10-08,Qatar,George Russell RUS,Mercedes,4.0,12,57,,,,
+16,2023-10-08,Qatar,Charles Leclerc LEC,Ferrari,5.0,10,57,,,,
+16,2023-10-08,Qatar,Fernando Alonso ALO,Aston Martin Aramco Mercedes,6.0,8,57,,,,
+16,2023-10-08,Qatar,Esteban Ocon OCO,Alpine Renault,7.0,6,57,,,,
+16,2023-10-08,Qatar,Valtteri Bottas BOT,Alfa Romeo Ferrari,8.0,4,57,,,,
+16,2023-10-08,Qatar,Zhou Guanyu ZHO,Alfa Romeo Ferrari,9.0,2,57,,,,
+16,2023-10-08,Qatar,Sergio Perez PER,Red Bull Racing Honda RBPT,10.0,1,57,,,,
+16,2023-10-08,Qatar,Lance Stroll STR,Aston Martin Aramco Mercedes,11.0,0,57,,,,
+16,2023-10-08,Qatar,Pierre Gasly GAS,Alpine Renault,12.0,0,57,,,,
+16,2023-10-08,Qatar,Alexander Albon ALB,Williams Mercedes,13.0,0,57,,,,
+16,2023-10-08,Qatar,Kevin Magnussen MAG,Haas Ferrari,14.0,0,56,,,,
+16,2023-10-08,Qatar,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,15.0,0,56,,,,
+16,2023-10-08,Qatar,Nico Hulkenberg HUL,Haas Ferrari,16.0,0,56,,,,
+16,2023-10-08,Qatar,Liam Lawson LAW,AlphaTauri Honda RBPT,17.0,0,56,,,,
+16,2023-10-08,Qatar,Logan Sargeant SAR,Williams Mercedes,,0,40,,,,
+16,2023-10-08,Qatar,Lewis Hamilton HAM,Mercedes,,0,0,,,,
+16,2023-10-08,Qatar,Carlos Sainz SAI,Ferrari,,0,0,,,,
+17,2023-10-22,United States,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,56,6.0,1:35.346,1:35.008,1:35.081
+17,2023-10-22,United States,Lewis Hamilton HAM,Mercedes,,0,56,3.0,1:35.091,1:35.240,1:34.862
+17,2023-10-22,United States,Lando Norris NOR,McLaren Mercedes,2.0,18,56,2.0,1:35.110,1:35.441,1:34.853
+17,2023-10-22,United States,Carlos Sainz SAI,Ferrari,3.0,15,56,4.0,1:35.824,1:35.302,1:34.945
+17,2023-10-22,United States,Sergio Perez PER,Red Bull Racing Honda RBPT,4.0,12,56,9.0,1:35.989,1:35.679,1:35.173
+17,2023-10-22,United States,Charles Leclerc LEC,Ferrari,,0,56,1.0,1:36.061,1:35.004,1:34.723
+17,2023-10-22,United States,George Russell RUS,Mercedes,5.0,10,56,5.0,1:36.165,1:35.606,1:35.079
+17,2023-10-22,United States,Pierre Gasly GAS,Alpine Renault,6.0,8,56,7.0,1:36.158,1:35.496,1:35.089
+17,2023-10-22,United States,Lance Stroll STR,Aston Martin Aramco Mercedes,7.0,6,56,19.0,1:36.589,,
+17,2023-10-22,United States,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,8.0,5,56,11.0,1:35.913,1:35.697,
+17,2023-10-22,United States,Alexander Albon ALB,Williams Mercedes,9.0,2,56,18.0,1:36.315,,
+17,2023-10-22,United States,Logan Sargeant SAR,Williams Mercedes,10.0,1,56,20.0,1:36.827,,
+17,2023-10-22,United States,Nico Hulkenberg HUL,Haas Ferrari,11.0,0,56,16.0,1:36.235,,
+17,2023-10-22,United States,Valtteri Bottas BOT,Alfa Romeo Ferrari,12.0,0,56,13.0,1:36.082,1:35.858,
+17,2023-10-22,United States,Zhou Guanyu ZHO,Alfa Romeo Ferrari,13.0,0,55,12.0,1:36.052,1:35.698,
+17,2023-10-22,United States,Kevin Magnussen MAG,Haas Ferrari,14.0,0,55,14.0,1:36.009,1:35.880,
+17,2023-10-22,United States,Daniel Ricciardo RIC,AlphaTauri Honda RBPT,15.0,0,55,15.0,1:36.213,1:35.974,
+17,2023-10-22,United States,Fernando Alonso ALO,Aston Martin Aramco Mercedes,,0,49,17.0,1:36.268,,
+17,2023-10-22,United States,Oscar Piastri PIA,McLaren Mercedes,,0,10,10.0,1:36.064,1:35.576,1:35.467
+17,2023-10-22,United States,Esteban Ocon OCO,Alpine Renault,,0,6,8.0,1:36.131,1:35.413,1:35.154
+18,2023-10-29,Mexico,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,71,3.0,1:18.099,1:17.625,1:17.263
+18,2023-10-29,Mexico,Lewis Hamilton HAM,Mercedes,2.0,19,71,6.0,1:18.677,1:17.571,1:17.454
+18,2023-10-29,Mexico,Charles Leclerc LEC,Ferrari,3.0,15,71,1.0,1:18.401,1:17.901,1:17.166
+18,2023-10-29,Mexico,Carlos Sainz SAI,Ferrari,4.0,12,71,2.0,1:18.755,1:18.382,1:17.233
+18,2023-10-29,Mexico,Lando Norris NOR,McLaren Mercedes,5.0,10,71,19.0,1:21.554,,
+18,2023-10-29,Mexico,George Russell RUS,Mercedes,6.0,8,71,8.0,1:18.893,1:17.673,1:17.674
+18,2023-10-29,Mexico,Daniel Ricciardo RIC,AlphaTauri Honda RBPT,7.0,6,71,4.0,1:18.341,1:17.706,1:17.382
+18,2023-10-29,Mexico,Oscar Piastri PIA,McLaren Mercedes,8.0,4,71,7.0,1:18.241,1:17.874,1:17.623
+18,2023-10-29,Mexico,Alexander Albon ALB,Williams Mercedes,9.0,2,71,14.0,1:18.828,1:19.147,
+18,2023-10-29,Mexico,Esteban Ocon OCO,Alpine Renault,10.0,1,71,16.0,1:19.080,,
+18,2023-10-29,Mexico,Pierre Gasly GAS,Alpine Renault,11.0,0,71,11.0,1:18.945,1:18.521,
+18,2023-10-29,Mexico,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,12.0,0,71,15.0,1:18.890,,
+18,2023-10-29,Mexico,Nico Hulkenberg HUL,Haas Ferrari,13.0,0,71,12.0,1:18.969,1:18.524,
+18,2023-10-29,Mexico,Zhou Guanyu ZHO,Alfa Romeo Ferrari,14.0,0,71,10.0,1:19.016,1:18.440,1:18.050
+18,2023-10-29,Mexico,Valtteri Bottas BOT,Alfa Romeo Ferrari,15.0,0,71,9.0,1:18.429,1:18.016,1:18.032
+18,2023-10-29,Mexico,Logan Sargeant SAR,Williams Mercedes,16.0,0,70,,,,
+18,2023-10-29,Mexico,Lance Stroll STR,Aston Martin Aramco Mercedes,17.0,0,66,18.0,1:19.227,,
+18,2023-10-29,Mexico,Fernando Alonso ALO,Aston Martin Aramco Mercedes,,0,47,13.0,1:18.848,1:18.738,
+18,2023-10-29,Mexico,Kevin Magnussen MAG,Haas Ferrari,,0,31,17.0,1:19.163,,
+18,2023-10-29,Mexico,Sergio Perez PER,Red Bull Racing Honda RBPT,,0,1,5.0,1:18.553,1:18.124,1:17.423
+19,2023-11-05,Brazil,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,71,1.0,1:10.436,1:10.162,1:10.727
+19,2023-11-05,Brazil,Lando Norris NOR,McLaren Mercedes,2.0,19,71,7.0,1:10.623,1:10.021,1:11.987
+19,2023-11-05,Brazil,Fernando Alonso ALO,Aston Martin Aramco Mercedes,3.0,15,71,4.0,1:10.557,1:10.237,1:11.387
+19,2023-11-05,Brazil,Sergio Perez PER,Red Bull Racing Honda RBPT,4.0,12,71,9.0,1:10.668,1:10.219,1:12.321
+19,2023-11-05,Brazil,Lance Stroll STR,Aston Martin Aramco Mercedes,5.0,10,71,3.0,1:10.551,1:10.375,1:11.344
+19,2023-11-05,Brazil,Carlos Sainz SAI,Ferrari,6.0,8,71,8.0,1:10.624,1:10.254,1:11.989
+19,2023-11-05,Brazil,Pierre Gasly GAS,Alpine Renault,7.0,6,71,13.0,1:10.793,1:10.567,
+19,2023-11-05,Brazil,Lewis Hamilton HAM,Mercedes,8.0,4,71,5.0,1:10.604,1:10.266,1:11.469
+19,2023-11-05,Brazil,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,9.0,2,71,16.0,1:10.837,,
+19,2023-11-05,Brazil,Esteban Ocon OCO,Alpine Renault,10.0,1,70,12.0,1:10.763,1:10.562,
+19,2023-11-05,Brazil,Logan Sargeant SAR,Williams Mercedes,11.0,0,70,19.0,1:11.035,,
+19,2023-11-05,Brazil,Nico Hulkenberg HUL,Haas Ferrari,12.0,0,70,11.0,1:10.475,1:10.547,
+19,2023-11-05,Brazil,Daniel Ricciardo RIC,AlphaTauri Honda RBPT,13.0,0,70,17.0,1:10.843,,
+19,2023-11-05,Brazil,Oscar Piastri PIA,McLaren Mercedes,14.0,0,69,10.0,1:10.519,1:10.330,
+19,2023-11-05,Brazil,George Russell RUS,Mercedes,,0,57,6.0,1:10.340,1:10.316,1:11.590
+19,2023-11-05,Brazil,Valtteri Bottas BOT,Alfa Romeo Ferrari,,0,39,18.0,1:10.955,,
+19,2023-11-05,Brazil,Zhou Guanyu ZHO,Alfa Romeo Ferrari,,0,22,20.0,1:11.275,,
+19,2023-11-05,Brazil,Kevin Magnussen MAG,Haas Ferrari,,0,0,14.0,1:10.602,1:10.723,
+19,2023-11-05,Brazil,Alexander Albon ALB,Williams Mercedes,,0,0,15.0,1:10.621,1:10.840,
+19,2023-11-05,Brazil,Charles Leclerc LEC,Ferrari,,0,0,2.0,1:10.472,1:10.303,1:11.021
+20,2023-11-18,Las Vegas,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,25,50,3.0,1:34.190,1:33.572,1:33.104
+20,2023-11-18,Las Vegas,Charles Leclerc LEC,Ferrari,2.0,18,50,1.0,1:33.617,1:32.775,1:32.726
+20,2023-11-18,Las Vegas,Sergio Perez PER,Red Bull Racing Honda RBPT,3.0,15,50,12.0,1:34.574,1:33.855,
+20,2023-11-18,Las Vegas,Esteban Ocon OCO,Alpine Renault,4.0,12,50,17.0,1:34.834,,
+20,2023-11-18,Las Vegas,Lance Stroll STR,Aston Martin Aramco Mercedes,5.0,10,50,14.0,1:34.504,1:34.199,
+20,2023-11-18,Las Vegas,Carlos Sainz SAI,Ferrari,6.0,8,50,2.0,1:33.851,1:33.338,1:32.770
+20,2023-11-18,Las Vegas,Lewis Hamilton HAM,Mercedes,7.0,6,50,11.0,1:34.307,1:33.837,
+20,2023-11-18,Las Vegas,George Russell RUS,Mercedes,8.0,4,50,4.0,1:34.137,1:33.351,1:33.112
+20,2023-11-18,Las Vegas,Fernando Alonso ALO,Aston Martin Aramco Mercedes,9.0,2,50,10.0,1:34.422,1:33.617,1:33.555
+20,2023-11-18,Las Vegas,Oscar Piastri PIA,McLaren Mercedes,10.0,2,50,19.0,1:34.850,,
+20,2023-11-18,Las Vegas,Pierre Gasly GAS,Alpine Renault,11.0,0,50,5.0,1:34.272,1:33.494,1:33.239
+20,2023-11-18,Las Vegas,Alexander Albon ALB,Williams Mercedes,12.0,0,50,6.0,1:34.634,1:33.588,1:33.323
+20,2023-11-18,Las Vegas,Kevin Magnussen MAG,Haas Ferrari,13.0,0,50,9.0,1:34.337,1:33.664,1:33.537
+20,2023-11-18,Las Vegas,Daniel Ricciardo RIC,AlphaTauri Honda RBPT,14.0,0,50,15.0,1:34.683,1:34.308,
+20,2023-11-18,Las Vegas,Zhou Guanyu ZHO,Alfa Romeo Ferrari,15.0,0,50,18.0,1:34.849,,
+20,2023-11-18,Las Vegas,Logan Sargeant SAR,Williams Mercedes,16.0,0,50,7.0,1:34.525,1:33.733,1:33.513
+20,2023-11-18,Las Vegas,Valtteri Bottas BOT,Alfa Romeo Ferrari,17.0,0,50,8.0,1:34.305,1:33.809,1:33.525
+20,2023-11-18,Las Vegas,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,18.0,0,46,20.0,1:36.447,,
+20,2023-11-18,Las Vegas,Nico Hulkenberg HUL,Haas Ferrari,19.0,0,45,13.0,1:34.265,1:33.979,
+20,2023-11-18,Las Vegas,Lando Norris NOR,McLaren Mercedes,,0,2,16.0,1:34.703,,
+21,2023-11-26,Abu Dhabi,Max Verstappen VER,Red Bull Racing Honda RBPT,1.0,26,58,1.0,1:24.160,1:23.740,1:23.445
+21,2023-11-26,Abu Dhabi,Charles Leclerc LEC,Ferrari,2.0,18,58,2.0,1:24.459,1:23.969,1:23.584
+21,2023-11-26,Abu Dhabi,George Russell RUS,Mercedes,3.0,15,58,4.0,1:24.337,1:24.013,1:23.788
+21,2023-11-26,Abu Dhabi,Sergio Perez PER,Red Bull Racing Honda RBPT,4.0,12,58,9.0,1:24.209,1:24.116,1:24.171
+21,2023-11-26,Abu Dhabi,Lando Norris NOR,McLaren Mercedes,5.0,10,58,5.0,1:24.368,1:23.920,1:23.816
+21,2023-11-26,Abu Dhabi,Oscar Piastri PIA,McLaren Mercedes,6.0,8,58,3.0,1:24.487,1:24.278,1:23.782
+21,2023-11-26,Abu Dhabi,Fernando Alonso ALO,Aston Martin Aramco Mercedes,7.0,6,58,7.0,1:24.501,1:24.131,1:24.084
+21,2023-11-26,Abu Dhabi,Yuki Tsunoda TSU,AlphaTauri Honda RBPT,8.0,4,58,6.0,1:24.286,1:24.207,1:23.968
+21,2023-11-26,Abu Dhabi,Lewis Hamilton HAM,Mercedes,9.0,2,58,11.0,1:24.437,1:24.359,
+21,2023-11-26,Abu Dhabi,Lance Stroll STR,Aston Martin Aramco Mercedes,10.0,1,58,13.0,1:24.405,1:24.422,
+21,2023-11-26,Abu Dhabi,Daniel Ricciardo RIC,AlphaTauri Honda RBPT,11.0,0,58,15.0,1:24.461,1:24.442,
+21,2023-11-26,Abu Dhabi,Esteban Ocon OCO,Alpine Renault,12.0,0,58,12.0,1:24.565,1:24.391,
+21,2023-11-26,Abu Dhabi,Pierre Gasly GAS,Alpine Renault,13.0,0,58,10.0,1:24.600,1:24.078,1:24.548
+21,2023-11-26,Abu Dhabi,Alexander Albon ALB,Williams Mercedes,14.0,0,58,14.0,1:24.298,1:24.439,
+21,2023-11-26,Abu Dhabi,Nico Hulkenberg HUL,Haas Ferrari,15.0,0,58,8.0,1:24.425,1:24.213,1:24.108
+21,2023-11-26,Abu Dhabi,Logan Sargeant SAR,Williams Mercedes,16.0,0,58,,,,
+21,2023-11-26,Abu Dhabi,Zhou Guanyu ZHO,Alfa Romeo Ferrari,17.0,0,58,19.0,1:25.159,,
+21,2023-11-26,Abu Dhabi,Carlos Sainz SAI,Ferrari,18.0,0,57,16.0,1:24.738,,
+21,2023-11-26,Abu Dhabi,Valtteri Bottas BOT,Alfa Romeo Ferrari,19.0,0,57,18.0,1:24.788,,
+21,2023-11-26,Abu Dhabi,Kevin Magnussen MAG,Haas Ferrari,20.0,0,57,17.0,1:24.764,,
