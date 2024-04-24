@@ -13,7 +13,7 @@ be watched out for in the 2024 season. The analysis also aims to investigate som
 factors affecting race performance, such as performance in qualifying rounds, and pit 
 stop times. The project also produces a linear regression model.
 
-The project uses the BeautifulSoup package in Python to web-scrape data from the official
+The project uses the BeautifulSoup package in Python to web-scrape data from the official 
 Formula 1 website: https://www.formula1.com/en/racing/2023.html. The race results, qualifiers
 results, and pit stop times are all scraped from individual sub-pages on the main Formula 1 
 website.
@@ -35,34 +35,44 @@ possibility that the html addresses have been modified since.
 ## Repository overview
 This repository is structured as follows:
 
+├── git.
 ├── data
     ├── F1_full_scraped.csv
     ├── F1_pit_scraped.csv
-├── source
-    ├── blog.ipynb
-├── blog
-├── code_output.pdf
-└──README
+├── output
+    ├── blog.txt
+    ├── blog_copy.html
+    ├── code_output.pdf
+├── source code
+    ├── project_code.ipynb
+├── LICENSE.txt
+└── README.txt
 
 
 
-The Jupyter notebook contained in the 'source code' folder contains all the code necessary to reproduce the project. This includes: Web-scraping data, cleaning data, modelling dataframes, producing outputs such as graphs and tables, and a regression model.
+The 'source code' folder contains the Jupyter notebook which contains all the code necessary to 
+reproduce the project. This includes: Web-scraping data, cleaning data, modelling dataframes, 
+producing outputs such as graphs and tables, and a regression model.
 
-The clean dataframes produced in the Jupyter notebook are also saved as CSV copies in the 'data' folder. The F1_full_scraped.csv dataset corresponds to the race dataframe, and F1_pit_scraped.csv corresponds to pit stop dataframe.
+The clean dataframes produced in the Jupyter notebook are also saved as CSV copies in the 'data' 
+folder. The F1_full_scraped.csv dataset corresponds to the race dataframe, and F1_pit_scraped.csv 
+corresponds to pit stop dataframe.
 
-The blog.txt file contains the links to the GitHub project repository and a link to the final blog post.
+The 'output' folder contains a blog.txt file containing the links to the GitHub project repository 
+and a link to the final blog post. As well as a copy of the blog_output.html which is a copy of the
+blog page in the case that the HackMD link is not accessible. The file code_output.pdf is a pdf 
+version of the Jupyter notebook code.
 
-The file code_output.pdf contains the outputs of the Jupyter Notebook.
 
 
 ## Running instructions
 
 In order to replicate all results the user needs to install python and run the 
-code script contained in the blog.ipynb file.
+code script contained in the project_code.ipynb file.
 
 This code has been tested using Python 3.8.8 Jupyter Notebook.
-Within python, a number of additional libraries are required.  These are indicated below, along with
-the version number used to generate original results:
+Within python, a number of additional libraries are required.  These are indicated below, along 
+with the version number used to generate original results:
  > beautifulsoup4 4.9.3
  > pandas 1.2.4
  > matplotlib 3.3.4
