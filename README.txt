@@ -29,6 +29,9 @@ When interepreting results please note that the points are only points scored in
 and do not include sprint races, hence there is a discrepancy between the final points in this
 project and the official Formula 1 tables. 
 
+Please note the last time the webscraping function was tested was on: 23/04/2024. There is a
+possibility that the html addresses have been modified since.
+
 ## Repository overview
 This repository is structured as follows:
 
