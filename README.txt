@@ -30,7 +30,7 @@ and do not include sprint races, hence there is a discrepancy between the final 
 project and the official Formula 1 tables. 
 
 Please note the last time the webscraping function was tested was on: 23/04/2024. There is a
-possibility that the html addresses have been modified since.
+possibility that the url addresses have been modified since.
 
 ## Repository overview
 This repository is structured as follows:
@@ -45,6 +45,7 @@ This repository is structured as follows:
     ├── code_output.pdf
 ├── source code
     ├── project_code.ipynb
+    ├── blog_markdown.md
 ├── LICENSE.txt
 └── README.txt
 
@@ -52,7 +53,10 @@ This repository is structured as follows:
 
 The 'source code' folder contains the Jupyter notebook which contains all the code necessary to 
 reproduce the project. This includes: Web-scraping data, cleaning data, modelling dataframes, 
-producing outputs such as graphs and tables, and a regression model.
+producing outputs such as graphs and tables, and a regression model. Please note that there are
+are additional graphs, plots, and tables contained in this notebook which have not been included 
+in the final blog post but may be of interest. This folder also contains the file blog_markdown.md 
+which contains all the markdown code necessary to replicate the final blog post.
 
 The clean dataframes produced in the Jupyter notebook are also saved as CSV copies in the 'data' 
 folder. The F1_full_scraped.csv dataset corresponds to the race dataframe, and F1_pit_scraped.csv 
@@ -67,8 +71,12 @@ version of the Jupyter notebook code.
 
 ## Running instructions
 
-In order to replicate all results the user needs to install python and run the 
-code script contained in the project_code.ipynb file.
+In order to replicate all results the user needs to install python and run the code script contained in 
+the project_code.ipynb file cell by cell in the order that it is written. The CSV datasets contained in 
+the 'data' folder are not necessary to run the python code as the whole project relies on web-scraped data. 
+
+Note: If you encounter an error in the web-scraping process please re-run the corresponding cell. Sometimes
+errors are created due to network issues.
 
 This code has been tested using Python 3.8.8 Jupyter Notebook.
 Within python, a number of additional libraries are required.  These are indicated below, along 
@@ -79,6 +87,14 @@ with the version number used to generate original results:
  > numpy 1.20.1
  > seaborn 0.11.1
  > statsmodels 0.12.2
+
+
+## Replicating the blog post
+
+The final output is a blog-post located on the HackMD website: https://hackmd.io/?nav=overview. In order to
+replicate the exact output you will need to copy and paste visualisations directly from the Jupyter notebook
+into HackMD note and enter text as markdown. The whole markdown script is located in the folder 'source code' 
+underthe file blog_markdown.md
 
 
 ## About
